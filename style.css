@@ -256,7 +256,6 @@ display: flex;
 #save{
     font-size: x-large;
     color:black;
-    font-family: monospace;
 }
 #textask{
     padding: 10px 30px;
@@ -275,38 +274,38 @@ display: flex;
 
 
 #nom{
-     font-family: cursive;
+     font-family: sans-serif;
         margin-left: 0px;
      margin-right: 0px;
 }
 #ho{
-     font-family: cursive;
+     font-family: sans-serif;
      margin-left: 0px;
      margin-right: 0px;
          font-size: small;
 }
 label{
     font-size: large;
-    font-family: cursive;
+    font-family: sans-serif;
     margin-left: 70px;
     margin-right: 30px;
 }
 
 #taskpa{
      font-size: large;
-    font-family: cursive;
+    font-family: sans-serif;
     margin-left: 70px;
     margin-right: 70px;
 }
 li{
        font-size: large;
-    font-family: cursive;
+    font-family: sans-serif;
     margin-left: 70px;
     margin-right: 70px;
 }
 button{
          font-size: large;
-    font-family: cursive;
+    font-family: sans-serif;
     margin-left: 70px;
     border-radius: 10px;
     background-color: #0066ff;
@@ -346,14 +345,14 @@ button{
 }
 #uy{
     font-size: large;
-    font-family: cursive;
+    font-family: sans-serif;
     margin-left: 15px;
     margin-right: 30px;
      margin-top: 30px;
     margin-bottom: 10px;
 }
 #as{
-    font-family: cursive;
+    font-family:sans-serif;
     margin-right: 150px;
      margin-top: 30px;
     margin-bottom: 30px;
